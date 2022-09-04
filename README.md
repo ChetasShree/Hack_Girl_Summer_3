@@ -48,8 +48,7 @@ We used Winx to build the website and used flutter to build the moblie applicati
 ## Tech Stack 🔨
 1. Flutter
 2. Dart
-3. Winx
-4. Chatbot
+3. Velo
 
 ## Challenges we ran into 🏃‍♂️
 
