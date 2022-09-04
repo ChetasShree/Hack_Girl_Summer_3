@@ -61,12 +61,12 @@ We used Velo to build the website and used flutter to build the moblie applicati
 1. We have a scan code through which people can register , buy , sell and it has a website as well as a moblie application
 
 ## What we learned 🧠
-1. Learnt winx 
+1. Learnt Velo 
 2. We made a chatbot
 3. We added subscriptions , online order feature 
 
 ## What's next ⏭
- 1. For future additions we aim to add more features like workshops , monthy weekly subscriptions which will help in increase the sales and make profits in long run.
+ For future additions we aim to add more features like workshops , monthy weekly subscriptions which will help in increase the sales and make profits in long run.
  Even planing to expand to all kinda of home cooks not just home bakers.
  
 ## Collaborators 🤖
