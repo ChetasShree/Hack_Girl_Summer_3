@@ -45,7 +45,7 @@ Through the subscription section, frequent buyers' can get some discount; throug
 
 
 ## How we built it 🔧
-We used Winx to build the website and used flutter to build the moblie application as mostly the seller and customers are moblie users ,so it would be easy for them to access and coordinate. We even added a chat bot so that if any customer or seller is having an issue , they can contact the admin immediately so that there is no hindrance and any loss due to it.
+We used Velo to build the website and used flutter to build the moblie application as mostly the seller and customers are moblie users ,so it would be easy for them to access and coordinate. We even added a chat bot so that if any customer or seller is having an issue , they can contact the admin immediately so that there is no hindrance and any loss due to it.
 
 
 ## Tech Stack 🔨
