@@ -31,6 +31,8 @@ We have even created a scan code for easy access to the website. We added worksh
 Through the subscription section, frequent buyers' can get some discount; through this, the seller will get daily assurerity earings 
 
 ## How the App Looks 🤜🔥🤛
+![Untitled-1](https://user-images.githubusercontent.com/75165587/188301077-39431510-a410-41bc-9fd1-9673ff653f90.png)
+
 
 ## Ways through which people can access the application
 ### 1. Scan code 
