@@ -30,18 +30,17 @@ We have even created a scan code for easy access to the website. We added worksh
 
 Through the subscription section, frequent buyers' can get some discount; through this, the seller will get daily assurerity earings 
 
-
-
 ## How the App Looks 🤜🔥🤛
-
-## How we built it 🔧
-We used Winx to build the website and used flutter to build the moblie application as mostly the seller and customers are moblie users ,so it would be easy for them to access and coordinate. We even added a chat bot so that if any customer or seller is having an issue , they can contact the admin immediately so that there is no hindrance and any loss due to it.
 
 ## Ways through which people can access the application
 ### 1. Scan code 
 ![WhatsApp Image 2022-08-31 at 5 18 23 PM](https://user-images.githubusercontent.com/75165587/188300397-d861e4af-1a5f-42ed-af19-058c591460c0.jpeg)
 ### 2. [Website Link](https://bhurvaxsharmaindia.wixsite.com/mysite-2/home)
 ### 3. The moblie application 
+
+
+## How we built it 🔧
+We used Winx to build the website and used flutter to build the moblie application as mostly the seller and customers are moblie users ,so it would be easy for them to access and coordinate. We even added a chat bot so that if any customer or seller is having an issue , they can contact the admin immediately so that there is no hindrance and any loss due to it.
 
 
 ## Tech Stack 🔨
