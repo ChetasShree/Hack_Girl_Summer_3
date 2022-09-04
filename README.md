@@ -13,7 +13,8 @@ Our main goal is to leverage small businesses to their potential, empowering the
 
 
 ## What it is ? 🎠
-Republic of Bakers provides home-bakers with a user-friendly app, where they can showcase their work and products without any external factors that take away from the main focus. It will help streamline customers in a more efficient way with a recommendation system. Mainly bulti to uplift and encourage women into business , they can sell and make money with things they do daily like baking and all
+Republic of Bakers provides home-bakers with a user-friendly app, where they can showcase their work and products without any external factors that take away from the main focus. It will help streamline customers in a more efficient way with a recommendation system. Mainly built to uplift and encourage women into business , they can sell and make money with things they do daily like baking and all
+
 ![2022-09-04 (4)](https://user-images.githubusercontent.com/75165587/188296994-ae368a7c-ebf3-49e4-a470-f5a99d682d59.png)
 
 ## The goal
@@ -23,12 +24,24 @@ Employing 2000+ people by 2024 end and increasing ,empowering and uplifting main
 To assist small bussiness grow and flourish and therefore create new and constant employment opportunities over the upcoming years. And even help in the upliftment of women in the business industry 
 
 ## What it does 🧭
+So basically, we made a website and a mobile application to help small businesses grow and flourish and create new and constant employment opportunities over the upcoming years. And even help in the upliftment of women in the business industry. Women are good at baking, so we decided to empower them and uplift them to start small-scale businesses with things they do regularly. Republic of Bakers provides home-bakers with a user-friendly app to showcase their work and products without any external factors that take away from the main focus. It will help streamline customers more efficiently with a recommendation system. Mainly built to uplift and encourage women into business, they can sell and make money with things they do daily, like baking.
+
+We have even created a scan code for easy access to the website. We added workshop and subscription features to help more people come into this business lane and earn some money. Through the workshops, people can learn how to bake stuff.
+
+Through the subscription section, frequent buyers' can get some discount; through this, the seller will get daily assurerity earings 
 
 
 
 ## How the App Looks 🤜🔥🤛
 
 ## How we built it 🔧
+We used Winx to build the website and used flutter to build the moblie application as mostly the seller and customers are moblie users ,so it would be easy for them to access and coordinate. We even added a chat bot so that if any customer or seller is having an issue , they can contact the admin immediately so that there is no hindrance and any loss due to it.
+
+## Ways through which people can access the application
+### 1. Scan code 
+![WhatsApp Image 2022-08-31 at 5 18 23 PM](https://user-images.githubusercontent.com/75165587/188300397-d861e4af-1a5f-42ed-af19-058c591460c0.jpeg)
+### 2. [Website Link](https://bhurvaxsharmaindia.wixsite.com/mysite-2/home)
+### 3. The moblie application 
 
 
 ## Tech Stack 🔨
@@ -39,7 +52,7 @@ To assist small bussiness grow and flourish and therefore create new and constan
 
 ## Challenges we ran into 🏃‍♂️
 
-1. `Making a Chat bot for streamline service` was down for about 24 hours since the start of the hackathon, and looking for alternatives that could suffice our solution was a big challenge. 
+1. `Making a Chat bot for streamline service` was down for about 24 hours since the start of the hackathon, and looking for alternatives that could suffice our solution was a big challenge. Adding a scan code to access the website and app
 
 ## Accomplishments that we're proud of 🏅
 1. We have a scan code through which people can register , buy , sell and it has a website as well as a moblie application
